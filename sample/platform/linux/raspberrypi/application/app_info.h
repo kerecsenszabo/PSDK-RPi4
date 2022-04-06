@@ -39,10 +39,10 @@ extern "C" {
 /* Exported constants --------------------------------------------------------*/
 // ATTENTION: User must goto developer.dji.com to create your own payload sdk application, get payload sdk application
 // information then fill in the application information here.
-#define USER_APP_NAME               "thrower"
-#define USER_APP_ID                 "103874"
-#define USER_APP_KEY                "4d9523e37937b996aab1ad0e56ccad3"
-#define USER_DEVELOPER_ACCOUNT      "1509777237@qq.com"
+#define USER_APP_NAME               "polarcamera"
+#define USER_APP_ID                 "116467"
+#define USER_APP_KEY                "7bcbe1b34ff5eb8a66f3af2878f7815"
+#define USER_DEVELOPER_ACCOUNT      "drone.command@estrato.hu"
 
 /* Exported types ------------------------------------------------------------*/
 
